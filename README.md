@@ -11,10 +11,14 @@
 
 ## 🌟 Tecnologías y Herramientas
 
-<table align="center">
+<hr>
+
+<table style="width: 100%">
   <tr>
-    <th width="50%">🔹 Control de Versiones</th>
-    <th width="50%">💻 Lenguajes</th>
+    <th style="width: 25%">🔹 Control de Versiones</th>
+    <th style="width: 25%">💻 Lenguajes</th>
+    <th style="width: 25%">🎯 Frameworks</th>
+    <th style="width: 25%">🛠️ Entornos</th>
   </tr>
   <tr>
     <td align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
@@ -23,15 +27,6 @@
     <td align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
       <img src="https://skillicons.dev/icons?i=python,java,html,css,r" />
     </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <th width="50%">🎯 Frameworks</th>
-    <th width="50%">🛠️ Entornos</th>
-  </tr>
-  <tr>
     <td align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
       <img src="https://skillicons.dev/icons?i=bootstrap,laravel,angular,htmx" />
     </td>
@@ -41,10 +36,14 @@
   </tr>
 </table>
 
-<table align="center">
+<hr>
+
+<table style="width: 100%">
   <tr>
-    <th width="50%">🗄️ Bases de Datos</th>
-    <th width="50%">☁️ Cloud y DevOps</th>
+    <th style="width: 25%">🗄️ Bases de Datos</th>
+    <th style="width: 25%">☁️ Cloud y DevOps</th>
+    <th style="width: 25%">🖥️ Sistemas Operativos</th>
+    <th style="width: 25%">🎨 Diseño y Web</th>
   </tr>
   <tr>
     <td align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
@@ -53,15 +52,6 @@
     <td align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
       <img src="https://skillicons.dev/icons?i=azure,gcp,firebase,docker" />
     </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <th width="50%">🖥️ Sistemas Operativos</th>
-    <th width="50%">🎨 Diseño y Web</th>
-  </tr>
-  <tr>
     <td align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
       <img src="https://skillicons.dev/icons?i=linux,debian,windows" />
     </td>
@@ -71,6 +61,7 @@
   </tr>
 </table>
 
+<hr>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
