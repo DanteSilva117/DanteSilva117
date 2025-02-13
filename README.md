@@ -56,7 +56,7 @@
       <img src="https://skillicons.dev/icons?i=linux,debian,windows" />
     </td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
-      <img src="https://skillicons.dev/icons?i=figma,wordpress" />
+      <img src="https://skillicons.dev/icons?i=figma" />
     </td>
   </tr>
 </table>
