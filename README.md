@@ -25,7 +25,7 @@
       <img src="https://skillicons.dev/icons?i=git,gitlab,github" />
     </td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
-      <img src="https://skillicons.dev/icons?i=python,java,html,css,r" />
+      <img src="https://skillicons.dev/icons?i=python,html,css,r" />
     </td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px; border-radius: 10px;">
       <img src="https://skillicons.dev/icons?i=bootstrap,laravel,angular,htmx" />
