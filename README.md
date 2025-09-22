@@ -3,11 +3,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🍊 Estoy haciendo mis prácticas profesionales en el Grupo Ortiz.
 - 🎓 He estudiado la carrera de Ingeniería en Sistemas Computacionales.
 - 📊 Me interesa el análisis de datos, la ciencia de datos y el desarrollo web front-end.
 - 🏫 Estudio en el Instituto Tecnológico de Morelia.
-- 🎨 Me gustan las caricaturas, el anime, los videojuegos y hacer ejercicio.
 
 ## 🌟 Tecnologías y Herramientas
 
